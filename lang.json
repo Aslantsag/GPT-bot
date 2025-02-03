@@ -1,0 +1,22 @@
+{
+  "en": {
+    "welcome": "Hello! I'm your AI assistant. Send me a message or a file!",
+    "premium_info": "Get premium features by subscribing with Telegram Stars!",
+    "premium_button": "Get Premium with Telegram Stars",
+    "premium_success": "You are now a premium user!",
+    "select_model": "Select a GPT model:",
+    "model_selected": "Selected model: {model_name}",
+    "file_saved": "File saved successfully!",
+    "premium_required": "Please subscribe to premium to use this feature."
+  },
+  "ru": {
+    "welcome": "Привет! Я ваш AI-ассистент. Отправьте мне сообщение или файл!",
+    "premium_info": "Получите премиум-функции, подписавшись с помощью Telegram Stars!",
+    "premium_button": "Получить премиум с Telegram Stars",
+    "premium_success": "Теперь вы премиум-пользователь!",
+    "select_model": "Выберите модель GPT:",
+    "model_selected": "Выбрана модель: {model_name}",
+    "file_saved": "Файл успешно сохранен!",
+    "premium_required": "Пожалуйста, подпишитесь на премиум, чтобы использовать эту функцию."
+  }
+}

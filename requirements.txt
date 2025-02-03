@@ -1,0 +1,4 @@
+aiogram>=3.0
+openai
+python-dotenv
+mysql-connector-python
